@@ -106,7 +106,7 @@ DEFAULT_CONFIG = {
         "prompt_suggestions": [
             {
                 "title": [
-                    "Help me study",
+                    "Help me study hard",
                     "vocabulary for a college entrance exam",
                 ],
                 "content": "Help me study vocabulary: write a sentence for me to fill in the blank, and I'll try to pick the correct option.",
